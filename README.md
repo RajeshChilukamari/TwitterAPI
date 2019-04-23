@@ -1,2 +1,2 @@
 # TwitterAPI
-predict data of twitter 
+analyze the data of twitter 
